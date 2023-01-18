@@ -235,3 +235,21 @@
      margin-left: 350px;
      margin-bottom: 10px;
 }
+
+.footer{
+    margin-top: 50px;
+    text-align: center;
+    background-color: black;
+    height: 150px;
+}
+
+.f-title{
+    padding-top: 20px;
+    color: white;
+    font-style: italic;
+
+}
+.f-des{
+    font-size: 15px;
+    color: white;
+}
