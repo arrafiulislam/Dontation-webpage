@@ -21,7 +21,6 @@
 
 .banner-title {
     padding-top: 130px;
-    padding bottom: 0;
     text-align: center;
     color: white;
     font-size: 50px;
@@ -77,4 +76,14 @@
     color: orangered;
     border: 3px solid orangered;
     padding: 15px 15px ;
+}
+.other-am{
+    color: gray;
+    text-align: center;
+    line-height: 30px;
+}
+.line{
+    width:50%;
+    text-align: center;
+   
 }
