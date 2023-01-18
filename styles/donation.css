@@ -41,7 +41,7 @@
 
 } */
 
-.button-primary{
+.button-primary {
     display: block;
     margin: auto;
     background-color: orangered;
@@ -51,20 +51,22 @@
     border: 0;
     font-size: 15px;
 }
-.donate-title{
+
+.donate-title {
     text-align: center;
     font-size: 30px;
-    
+
 }
-.donate-des{
+
+.donate-des {
     color: gray;
     text-align: center;
     font-size: 20px;
     margin: 5px;
-    
+
 }
 
-.donation-tk{
+.donation-tk {
     font-size: 20px;
     text-align: center;
     display: flex;
@@ -72,18 +74,164 @@
     gap: 65px;
 }
 
-.two-hun{
+.two-hun {
     color: orangered;
     border: 3px solid orangered;
-    padding: 15px 15px ;
+    padding: 15px 15px;
 }
-.other-am{
+
+.other-am {
     color: gray;
     text-align: center;
     line-height: 30px;
 }
-.line{
-    width:50%;
+
+.line {
+    width: 50%;
     text-align: center;
-   
+
+}
+
+.donate-plan {
+    text-align: center;
+}
+
+.dp-title {
+    font-size: 30px;
+
+}
+
+.dp-des {
+    font-size: 20px;
+    color: gray;
+}
+
+.donate-box {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin: 60px 70px;
+}
+
+.box-1 {
+    background-color: beige;
+    text-align: left;
+}
+
+.box-title {
+    font-size: 25px;
+}
+
+.box-des {
+    color: gray;
+    font-size: 20px;
+}
+
+.box-2 {
+    background-color: bisque;
+    text-align: left;
+}
+
+.box-3 {
+    text-align: left;
+    background-color: blanchedalmond;
+}
+
+.contribution-part1 {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.c-image1 {
+    width: 450px;
+    height: 450px;
+}
+
+.c-title1 {
+    font-size: 35px;
+}
+
+.c-des1 {
+    font-size: 20px;
+    margin-bottom: 1px;
+}
+
+.c-des2 {
+    font-size: 20px;
+    margin-top: 1px;
+}
+
+.c-button1 {
+
+    background-color: orangered;
+    color: white;
+    height: 40px;
+    border: 0;
+    font-size: 20px;
+    border-radius: 0;
+}
+
+.contribution-part2 {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.c-image2 {
+    width: 450px;
+    height: 450px;
+}
+
+.c-title2 {
+    font-size: 35px;
+}
+
+.c-des3 {
+    font-size: 20px;
+    margin-bottom: 1px;
+}
+
+.c-des4 {
+    font-size: 20px;
+    margin-top: 1px;
+}
+
+.updates {
+    text-align: center;
+}
+
+.u-title {
+    font-size: 40px;
+}
+
+.u-des {
+    font-size: 25px;
+    color: gray;
+}
+
+.form {
+    display: flex;
+     width: 100%;
+     justify-content: center;
+     background-color:burlywood;
+     width: 50%;
+     height: 70px;
+     margin-left: 400px;
+     padding-top: 30px ;
+    
+}
+
+.email {
+    padding: 5px 10px;
+    height: 35px;
+    width: 230px;
+    font-size: 20px;
+    border: 0;
+    background-color: blanchedalmond;
+}
+
+.sb {
+     margin-left: 350px;
+     margin-bottom: 10px;
 }
